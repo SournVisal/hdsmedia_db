@@ -1,0 +1,1 @@
+<img src="{{url('frontend/img/404.png')}}" alt="" width="100%" >
